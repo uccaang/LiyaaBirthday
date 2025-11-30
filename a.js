@@ -68,7 +68,7 @@ document.getElementById("By").onclick = function() {
 }
 
 async function menuju(){
-  await swals.fire('Yay!', 'And here comes another birthday surprise for you!', 'success');
+  await swals.fire('Yay!', Tunggu bentar yaaa', 'success');
   window.location = "./love/index.html";
 }
 
